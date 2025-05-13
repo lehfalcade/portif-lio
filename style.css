@@ -1,0 +1,45 @@
+header {
+    text-align: center;
+    background-color: darkviolet;
+    padding: 30px;
+}
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+main {
+    background-color: plum;
+    text-align: center;
+    padding: 30px;
+    margin: 0 auto;
+}
+h2 {
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+}
+li {
+    margin: 10px auto;
+    padding: 10px;
+    background-color: mediumpurple;
+    width: 30%;
+    border-radius: 10px;
+    text-align: center;
+}
+li:hover {
+    width: 33%;
+    background-color: palevioletred;
+}
+footer {
+    background-color: deeppink;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+footer img {
+    width: 100%;
+}
