@@ -1,6 +1,6 @@
 header {
     text-align: center;
-    background-color: darkviolet;
+    background-color: mediumpurple;
     padding: 30px;
 }
 h1 {
@@ -8,7 +8,7 @@ h1 {
     font-weight: bold;
 }
 main {
-    background-color: plum;
+    background-color: thistle;
     text-align: center;
     padding: 30px;
     margin: 0 auto;
@@ -17,11 +17,11 @@ h2 {
     padding-bottom: 20px;
     font-size: 20px;
     font-weight: bold;
-    text-align: center;
 }
 a {
     text-decoration: none;
     text-transform: uppercase;
+    color: black;
 }
 li {
     margin: 10px auto;
@@ -29,17 +29,16 @@ li {
     background-color: mediumpurple;
     width: 30%;
     border-radius: 10px;
-    text-align: center;
 }
 li:hover {
     width: 33%;
-    background-color: palevioletred;
+    background-color: bisque;
 }
 footer {
-    background-color: deeppink;
+    background-color: mediumpurple;
     text-align: center;
-    padding: 20px 0 20px 0;
+    padding: 20px 0 30px 0;
 }
 footer img {
-    width: 100%;
+    width: 100px;
 }
